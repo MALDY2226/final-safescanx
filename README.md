@@ -26,7 +26,7 @@ SafeScanX is an advanced malware detection system that scans uploaded files and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/safescanx.git
+   git clone https://github.com:MALDY2226/final-safescanx.git
    cd safescanx
    ```
 
